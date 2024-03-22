@@ -73,6 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - [Tailwind CSS](https://tailwindcss.com)
 - [React Icons](https://react-icons.github.io/react-icons/)
+- [React Typed](https://www.npmjs.com/package/react-typed)
 
 <!--
 
