@@ -75,6 +75,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [React Typed](https://www.npmjs.com/package/react-typed)
 
+### Preview
+
+[View Design](https://raw.githubusercontent.com/edantal/Theme-MyData--ReactJS/main/preview.jpg)
+
 <!--
 
 ---

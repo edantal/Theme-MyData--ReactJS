@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
       <div className=''>
-        <h1 className='w-full text-3xl font-bold text-[#00df9a] uppercase m-4'>
+        <h1 className='w-full text-3xl font-bold text-[#00df9a] uppercase'>
           My_Data.
         </h1>
         <p className='py-4 text-xs'>
@@ -19,11 +19,26 @@ const Footer = () => {
           aliquam nisi deserunt sunt, debitis vitae tempora magnam quo. Officia.
         </p>
         <div className='flex justify-between md:w-[75%] my-6'>
-          <FaSquareFacebook size={30} />
-          <FaInstagram size={30} />
-          <FaSquareXTwitter size={30} />
-          <FaSquareYoutube size={30} />
-          <FaSquareGithub size={30} />
+          <FaSquareFacebook
+            size={30}
+            className='hover:fill-[#00df9a] ease-out duration-300 cursor-pointer'
+          />
+          <FaInstagram
+            size={30}
+            className='hover:fill-[#00df9a] ease-out duration-300 cursor-pointer'
+          />
+          <FaSquareXTwitter
+            size={30}
+            className='hover:fill-[#00df9a] ease-out duration-300 cursor-pointer'
+          />
+          <FaSquareYoutube
+            size={30}
+            className='hover:fill-[#00df9a] ease-out duration-300 cursor-pointer'
+          />
+          <FaSquareGithub
+            size={30}
+            className='hover:fill-[#00df9a] ease-out duration-300 cursor-pointer'
+          />
         </div>
       </div>
 
